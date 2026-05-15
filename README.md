@@ -1,3 +1,4 @@
 ### Hi there! I'm Loïc👋
-- 👨‍🔬 PhD Student in Computational Chemistry
-- 🔭 Currently working on Machine Learning Potentials
+- 👨‍🔬 PhD in Computational Chemistry
+- 🚀 Currently working at the German Aerospace Center
+- 🔭 Currently working on Machine Learning Potentials & Quantum Computing
